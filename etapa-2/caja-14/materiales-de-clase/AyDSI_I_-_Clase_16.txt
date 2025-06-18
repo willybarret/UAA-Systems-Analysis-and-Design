@@ -1,0 +1,163 @@
+﻿FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+CLASE 16 
+Gráficos 
+de 
+Secuencias 
+Fluxograma o Flujograma o Diagrama de Flujos  Concepto y Generalidades  
+Página 1
+“El fluxograma, denominado también flujograma o diagrama de flujos o cursograma, es una forma de  representación gráfica utilizada para demostrar esquemáticamente los pasos de un determinado proceso o procedimiento (movimientos de personas, documentos, materiales y otros), dentro de la empresa o de un  sector de la misma, o entre la empresa y el cliente y viceversa, estableciendo su secuencia cronológica.    
+El uso de los gráficos de secuencias es de mucha utilidad en aquellos casos en que los procesos o  procedimientos son muy extensos.  
+Así, un miembro de la empresa o el analista de Organización y Procesos Empresariales (O&M) tendría que leer  varias páginas de un manual de procedimiento para enterarse de su contenido. Sin embargo, mediante el fluxograma  bien diseñado podría abarcar, de una sola mirada, las principales características de todo el proceso, utilizando  menos tiempo y detectado con mayor facilitad las anomalías que pudieran observarse, tales como: exceso o falta de  control, duplicación de tareas o pasos, retrasos innecesarios y otros. […]  
+De acuerdo a los objetivos que persiguen las técnicas de organización y Procesos Empresariales (O&M), al  elaborar el fluxograma de un determinado procesos o procedimiento siempre debe utilizarse conjuntamente la  descripción narrativa con el gráfico, porque éste por sí solo puede prestarse a confusiones o diferentes  interpretaciones.  
+Algunas pautas a considerar para el diseño de fluxograma o flujogramas  Existen algunas pautas básicas que deberían ser consideradas por el analista de Organización y Procesos  Empresariales (O&M) al diseñar fluxogramas o diagramas de flujos. A continuación se citan los más importantes:  
+• Identificar el proceso o procedimiento que se quiere graficar.  
+• Identificar los sectores que intervienen en el proceso o procedimiento. Existen procesos que se inician y  terminan en un mismo sector, y otras en que intervienen varios sectores de la empresa y también el cliente.  • Identificar los documentos que intervienen en el proceso o procedimiento.  
+Referente a la descripción narrativa:  
+• En esta parte se describen los pasos del proceso o procedimiento especificando quién hace, como se hace,  cuándo se hace y dónde se hace cada paso, indicando la sucesión cronológica y secuencia concatenada de las acciones.  
+Esta es la parte más importante y útil para el personal de ejecución de una empresa, pues en vez de leer varias  páginas de un manual para interiorizarse o informarse de los pasos de un proceso o procedimiento, puede hacerlo  leyendo una o dos páginas del fluxograma. A la vez, facilita el análisis del analista de Organización y Procesos  Empresariales (O&M) y demás profesionales.  
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+La diferencia fundamental entre un fluxograma elaborado por un profesional de  Organización y Procesos Empresariales (O&M) y un flujograma elaborado por profesionales de  otros capos, es que el primero puede ser interpretado tanto por los técnicos como por el personal  de ejecución, sea cual fuere su formación académica, mientras que el segundo puede ser  interpretado solamente por los técnicos o el profesional que lo diseño.  
+• Deben utilizarse frases concisas pero completas.  
+Por ejemplo:  
+o Recibe la solicitud de crédito, en duplicado  
+o Controla y registra los datos de la misma  
+o Remite el original a Tesorería  
+o Archivar el duplicado.  
+Página 2
+• Debe evitarse, en lo posible, los términos técnicos y/o que puedan tener más de una interpretación; usar en  todos los casos términos sencillos y uniformes para que el personal que tenga que utilizarlo pueda entender  con mayor facilitada el significado de su contenido.  
+• En cada línea vertical se debe indicar, gráficamente, cada paso del proceso o procedimiento.  
+Signos utilizados para el Diseño de Fluxogramas o Flujogramas  
+En un fluxograma, los pasos u operaciones de un proceso o procedimiento son representados gráficamente por  medio de signos convencionales o simples estudios.  
+  
+
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa Página 
+3
+  
+  
+  
+
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+Página 
+4
+  
+  
+
+Tipos de Fluxogramas o Flujogramas  
+El analista de OyPE utiliza generalmente dos tipos de fluxogramas durante la realización de sus trabajos:  
+• Fluxograma o flujograma vertical  
+• Fluxograma o flujograma horizontal  
+Fluxograma o flujograma vertical  
+El fluxograma vertical o gráfico vertical de secuencias muestra la sucesión cronológica de los pasos de un  proceso o procedimiento, en forma específica y detallada. Este tipo de diagrama es utilizado para efectuar el análisis  de los procesos, demostrar las anomalías que se observan y justificar las recomendaciones para la solución de  problemas relacionados con la organización y gestión empresarial.  
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+Los datos que componen este tipo de diagrama son:  
+• Nombre de la empresa  
+• El título, o sea, fluxograma o flujograma  
+• Denominación del proceso o procedimiento  
+• Denominación del sector responsable  
+• Fecha de elaboración del fluxograma o flujograma  
+• Significado de los signos utilizados  
+El cuerpo del fluxograma está constituido por:  
+• La primera columna, en donde se indica el número de cada paso u operación.  
+Página 5
+• La segunda columna, en donde se describen los pasos del proceso o procedimiento, indicando el quién, qué,  cuándo y dónde se realizan los mismos.  
+• La tercera columna, en donde se indica la distancia, en metros, kilómetros, etc., que existe entre dos o más  sectores que intervienen en el proceso o procedimiento.  
+• La cuarta columna, en donde se indica el tiempo de duración de cada paso u operación.  • La quinta, sexta, séptima, octava y novena columna, en donde se representan gráficamente cada paso u  operación del proceso o procedimiento, debajo de los signos respectivos.  
+Una de las principales ventajas que ofrece la utilización del fluxograma vertical es que facilita el análisis de los  datos durante un estudio de OyPE.  
+  
+Ejemplo de Fluxograma Vertical  
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+Fluxograma o Flujograma horizontal  
+El fluxograma horizontal o gráfico horizontal de secuencias se utiliza generalmente para  mostrar los pasos u operaciones de procesos o procedimientos del método propuesto.  
+En este tipo de fluxograma el flujo o la secuencia de operaciones va de izquierda a derecha  
+Página 6
+y viceversa. Para su elaboración se utilizan los mismos signos que en el fluxograma vertical, además de otros que  pueden ser agregados de acuerdo a las necesidades y/o criterios de los profesionales que los diseña.  
+Los datos que se incluyen en este tipo de fluxograma son:  
+En la parte superior:  
+• Nombre de la empresa  
+• Título, o sea, fluxograma o flujograma  
+• Denominación del proceso o procedimiento  
+• Denominación del sector responsable  
+• Fecha de elaboración del fluxograma  
+• Significado de los signos utilizados.  
+El cuerpo del fluxograma está constituido por:  
+• La primera columna, en donde se indica el número de cada paso u operación.  
+• La segunda columna, en donde se describen los pasos del proceso o procedimiento indicado el quién, qué,  cómo y cuándo realizan los mismos.  
+• En las columnas siguientes:  
+o En la parte superior se indican los sectores que intervienen en la ejecución de los distintos pasos del  proceso o procedimiento. Es decir, el dónde se ejecuta cada paso u operación.  
+o Debajo de cada sector, en donde se ejecutan los trabajos, se representan los pasos u operaciones  por medio de los signos correspondientes.  
+El fluxograma horizontal, aunque resulta más trabajoso su diseño, facilita la visualización de los sectores de una  organización que intervienen en un determinado proceso o procedimiento. Además, permite una mejor y más rápida  compresión del proceso por parte de los usuarios.  
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+Página 
+7
+Ejemplo de Fluxograma Horizontal  
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+Página 
+8
+Otro ejemplo de fluxograma donde cambia la forma de representar los símbolos  
+Diagrama de flujos  
+El diagrama de flujos es un tipo de gráfico de secuencia que al igual que el fluxograma tiene por objetivo  mostrar las secuencias de un determinado proceso o procedimiento. Este tipo de gráfico puede ser utilizado con  cualquier sistema operativo, es decir, manual y/o electrónico.  
+Sin embargo, con el uso intensivo de la tecnología de información (tecnologías computacional y  comunicacional) y de los sistemas integrados en red, este diagrama es el más utilizado actualmente por los  profesionales de OyPE para ilustrar el flujo de trabajos como, por ejemplo: un proceso de producción, de montaje de  una máquina, etc., o del flujo de documentos e informaciones como: facturación, cobranzas, contabilidad y otros.  
+El diagrama de flujos aplicado con sistemas integrados en red y gerenciamiento electrónico de documentos e  informaciones (GED) – workflow u otros – permite la disponibilidad de la información o la visualización del proceso  en tiempo real (on line), así como el analista de la interacción e integración de los distintos sectores o áreas de una  empresa, etc. Constituye, por lo tanto, un instrumento válido y útil para la toma de decisiones en todos los niveles de  una organización.  
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+Página 
+9
+Ejemplo de Diagrama de Flujos  
+Otros tipos de diagramas  
+Diagrama de Gantt  
+El diagrama de Gantt es otro tipo de gráfico que puede ser utilizado para representar las secuencias del  trabajo en un estudio de OyPE.  
+En este diagrama se indican las distintas fases o etapas de un determinado trabajo mediante líneas horizontales  trazadas y ordenadas de acuerdo a la secuencia de las operaciones, es decir, conforme al orden de ejecución de las  mismas; y, en columnas verticales los respectivos periodos empleados o que deberían ser empleados para la ejecución  de cada fase o etapa. Estos tiempos pueden ser expresados en horas, días, meses, etc.  
+La distribución del tiempo para las distintas fases del proyecto dependerá del volumen de trabajo por afrontar y  del tiempo total de que se dispone para la realización mismo.  
+El gráfico de Gantt constituye un medio expresivo y sintético de representación de diferentes situaciones de  trabajo, permitiendo la separación de las partes para un mejor control de la ejecución de los mismos.  
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+Así, una vez calculado el tiempo aproximado para la realización de un determinado trabajo  y conociendo los posibles periodos de inactividad, debido a situaciones diversas, se pueden  lograr con mayor facilidad y precisión los objetivos propuestos mediante la programación del  trabajo.  
+El diagrama de Gantt puede ser presentado de diferentes formas, conforme al criterio  
+Página 10
+profesional de quienes lo utilizan y a las exigencias de los diferentes problemas a los que deberán ser aplicados.  Ejemplo de un Diagrama de Gantt  
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+Diagrama de procesos varios  
+El diagrama de procesos varios es otro tipo de representación gráfica mediante el cual se  puede representar las secuencias de los pasos de cualquier tipo de proceso o procedimiento  utilizando los mismos signos que los fluxogramas o diagramas de flujos. Así, este tipo de  diagrama puede ser utilizado para representar las secuencias de los pasos de un proceso de  producción, de comercialización y/o administrativo. 
+Página 11
+Es importante señalar que la utilización de los diferentes tipos de diagramas depende de situaciones específicas.  Además, deben ser diseñados por técnicos altamente especializados para que puedan cumplir con su objetivo.    
+Ejemplo de un Diagrama de procesos  
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa Página 
+12
+Otro ejemplo de Diagrama de procesos  
+Un caso de ejemplo: 
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa Página 
+13
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa 
+La solución:   
+  
+Página 14
+Análisis y Diseño de Sistemas Informáticos I ® UAA  
+FFaaccuullttaaddddeeCCiieenncciiaassyyTTeeccnnoollooggííaa Página 
+15
+
+Para pensar 
+	o ¿Debemos hacer un gráfico de secuencia para todos los procesos o  procedimientos que forman parte del sistema que estamos  desarrollando?  
+o ¿Qué diferencia hay entre un fluxograma horizontal y uno vertical?,  ¿En qué caso se usa uno u otro?  
+o ¿Qué agrega el diagrama de flujo que no es visible con un fluxograma? 
+	
+
+
+
+Análisis y Diseño de Sistemas Informáticos I ® UAA
