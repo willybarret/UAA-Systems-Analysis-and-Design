@@ -24,7 +24,7 @@ Los gráficos desecuencia hacen más fácil el análisis de un proceso o procedi
 ## Lecturas obligatorias
 
 - Martín Flor Romero. (2000). 4ta Edición. Organización y Procesos Empresariales.
- - Capítulo Gráficos de Secuencias (X), páginas del 292 a la 315.
+  - Capítulo Gráficos de Secuencias (X), páginas del 292 a la 315.
 
 ## Webliografía
 
