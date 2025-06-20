@@ -12,11 +12,7 @@
 
 ## Tema: Elaboración y control de formularios
 
-En esta espacio parece explicarse el diseño y la estandarización de distintos formularios que utilizará la empresa.
-
-Se explica que los formularios son pedazos de papel que registran información variable, que será utirizada por el área funcional a la cual pertenezca.
-
-Es un instrumento de trabajo que transporta información y que permite simplificar y facilitar los procesos administrativos. En esencia, es todo papel que contiene información, texto, epígrafes, impresos, o se encuentra en blanco para su posterior rellenado.
+Es el momento de diseñar para estandarizar los distintos formularios que utilizará la empresa. Los formularios son piezas de papel que contiene los datos para registrar información variable, el cual tendrá diferente utilización según el área funcional a la cual pertenezca. Puede considerarse también como un instrumento de trabajo que permite trasportar información para simplificar y facilitar los procesos administrativos. Es todo papel que contenga información, texto, epígrafes, impresos o en blanco para rellenarlos posteriormente.
 
 ## Objetivos de la clase
 
@@ -26,21 +22,18 @@ Es un instrumento de trabajo que transporta información y que permite simplific
 
 ## Comentarios del docente
 
-En esta etapa del ciclo de vida del desarrollo de software, se aborda el diseño, enfocándose específicamente en la creación de formularios, tanto digitales como impresos.
+Ya iniciamos otra actividad del ciclo de vida del desarrollo del software, el diseño. En este caso específico el diseño de formularios electrónicos o en papeles.
 
-El primer paso consiste en determinar si realmente es necesario desarrollar un nuevo formulario o si ya existe alguno que cumpla con los mismos objetivos. Esto permite evitar redundancias y optimizar recursos.
+Para la elaboración de un instrumento destinado a codificar, transmitir, comunicar, recibir y conservar cualquier tipo de dato, el primer aspecto es determinar la necesidad del formulario y si existen formularios que compartan el mismo objetivo. Posteriormente elegir el tamaño estándar de papel y letra adecuada para el diseño e impresión, y de ahí, elaborar una lista con toda la información que contendrá el formulario. Determinar espacios horizontales para cada dato y la mejor distribución de éstos, de acuerdo con los responsables de su llenado, evitando áreas libres o desperdicios de papel y exceso de zonas sombreadas.
 
-Una vez justificada su creación, se seleccionan el tamaño del papel, la tipografía adecuada y se define la información que deberá incluir. Con base en ello, se estructura la disposición de los campos para lograr una organización clara, eficiente y sin desperdicios de espacio.
+Antes de llevar a cabo la elaboración del formulario, se debe crear una actitud mental favorable en aquellas personas que van a hacer uso de dicho formulario, y sobre todo debe presentar el método más sencillo y cómodo para el ingreso de los datos y al mismo tiempo facilitar el uso de la información una vez que ha sido registrada en la respectiva forma.
 
-Se debe considerar la experiencia de quienes completarán el formulario. El diseño tiene que facilitar la lectura y el llenado, evitando zonas vacías sin propósito o áreas densamente sombreadas que dificulten la comprensión.
-
-También se destaca la importancia de generar una predisposición favorable por parte de los usuarios. Si el formulario se percibe como práctico y accesible, su implementación será más efectiva.
-
-El propósito final del diseño de formularios es contribuir a la mejora de la gestión administrativa, mediante la estandarización en la recolección, transmisión, recepción y análisis de datos dentro de los procesos organizacionales.
+El objetivo es mejorar u optimizar la gestión administrativa mediante la estandarización de los registros, transmisiones, recepción y análisis de los datos e informaciones de cualquier proceso o procedimiento administrativo.
 
 ## Lecturas obligatorias
 
-- Martín Flor Romero. (2000). 4ta Edición. Organización y Procesos Empresariales. Capítulo Elaboración y Control de Formularios (XV), páginas del 363 a la 391.
+- Martín Flor Romero. (2000). 4ta Edición. Organización y Procesos Empresariales.
+  - Capítulo Elaboración y Control de Formularios (XV), páginas del 363 a la 391.
 
 ## Webliografía
 

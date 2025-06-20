@@ -2,8 +2,7 @@
 
 <!--toc:start-->
 - [Caja 10](#caja-10)
-  - [Consideraciones](#consideraciones)
-  - [Tema: ¿Uso consistente de las herramientas del "Análisis Estructurado Moderno"?](#tema-uso-consistente-de-las-herramientas-del-análisis-estructurado-moderno)
+  - [Tema: Análisis Estructurado Moderno](#tema-análisis-estructurado-moderno)
   - [Objetivos de la clase](#objetivos-de-la-clase)
   - [Comentarios del docente](#comentarios-del-docente)
   - [Lecturas obligatorias](#lecturas-obligatorias)
@@ -11,15 +10,9 @@
   - [Actividades](#actividades)
 <!--toc:end-->
 
-## Consideraciones
+## Tema: Análisis Estructurado Moderno
 
-El docente parece no hacer distinción entre "herramienta" y "metodología". Esto será ajustado conforme se avance con la digestión de los materiales de clase.
-
-## Tema: ¿Uso consistente de las herramientas del "Análisis Estructurado Moderno"?
-
-Esta clase parece tratar sobre utilizar de manera coherente y consistente las herramientas provistas en la caja anterior.
-
-También se menciona la importancia de construir sistemas automatizados mediante esta metodología.
+Debemos poner a todas las herramientas estudiadas en su contexto, dentro de un esfuerzo conjunto que nos permita ser consistentes, más que una anotación, usos de procedimientos y herramientas. Debemos entender la importancia de construir sistemas automatizados mediante el uso de alguna metodología de análisis de sistemas.
 
 ## Objetivos de la clase
 
@@ -28,13 +21,11 @@ También se menciona la importancia de construir sistemas automatizados mediante
 
 ## Comentarios del docente
 
-Luego de estudiar las herramientas que permiten describir un sistema desde distintas perspectivas, corresponde integrarlas utilizando una única metodología de análisis de sistemas.
+Ya hemos aprendido las diferentes herramientas que nos permiten describir al sistema desde distintas perspectivas. A partir de ahora las integraremos en una única metodología de análisis de sistemas, a través del Análisis Estructurado Moderno de Edward Yourdon. Esta metodología converge un conjunto de procedimientos, técnicas, herramientas y un soporte documental fundamental que ayuda a los desarrolladores a realizar propuestas de nuevos desarrollos de software.
 
-Esta metodología mezcla un conjunto de procedimientos, técnicas, herramientas y soporte documental que ayuda a los desarrolladores a proponer nuevos desarrollos de software.
+Una metodología sirve exactamente para que el resultado final del proyecto documental se deba en lo más posible a la planificación consciente y, en lo menos posible, al azar o al método de ensayo y error.
 
-Dicha metodología permitirá seguir uno o varios modelos de ciclos de vida. Es decir, contempla aquello que se desea obtener, pero no cómo obtenerlo.
-
-La metodología nos indicará cómo obtener los distintos productos parciales y finales que serán presentados como propuesta de solución acordada y validada.
+La metodología nos permitirá seguir uno o varios modelos de ciclo de vida, es decir, qué es lo que hay que obtener a lo largo del desarrollo del proyecto pero no, cómo hacerlo. La metodología nos indicará cómo hay que obtener los distintos productos parciales y finales que serán presentados como propuesta de solución acordada y validada con los usuarios del sistema.
 
 ## Lecturas obligatorias
 

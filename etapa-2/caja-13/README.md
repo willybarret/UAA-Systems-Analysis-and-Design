@@ -2,7 +2,7 @@
 
 <!--toc:start-->
 - [Caja 13](#caja-13)
-  - [Tema: Diseño Eficaz de Entradas y Salidas](#tema-diseño-eficaz-de-entradas-y-salidas)
+  - [Tema: Diseño de Entrada y Salida Eficaz](#tema-diseño-de-entrada-y-salida-eficaz)
   - [Objetivos de la clase](#objetivos-de-la-clase)
   - [Comentarios del docente](#comentarios-del-docente)
   - [Lecturas obligatorias](#lecturas-obligatorias)
@@ -10,13 +10,9 @@
   - [Actividades](#actividades)
 <!--toc:end-->
 
-## Tema: Diseño Eficaz de Entradas y Salidas
+## Tema: Diseño de Entrada y Salida Eficaz
 
-Un buen diseño de entradas y salidas es clave para demostrar que se han entendido correctamente los requerimientos del usuario.
-
-Las entradas deben ser precisas, eficaces, consistentes, fáciles de usar y visualmente claras. Las salidas, además de compartir esas cualidades, deben ofrecer información útil y bien estructurada que facilite la toma de decisiones.
-
-Para lograr resultados aceptados y funcionales, es fundamental involucrar a los usuarios en el proceso de diseño.
+Es muy importante ser efectivos en la propuesta de diseño para las entradas y salidas del nuevo sistema. Será la mejor forma de demostrar a los usuarios que hemos comprendido sus requerimientos. El diseño de una entrada efectiva debe ser precisa, eficaz, atractiva, consistente y por sobre todo, fácil de usar; igual requisito para las salidas efectivas que, tendrán otros aspectos adicionales que darán mayor precisión a la propuesta. Para obtener la aceptación de los usuarios es necesario que ellos participen del diseño.
 
 ## Objetivos de la clase
 
@@ -28,15 +24,13 @@ Para lograr resultados aceptados y funcionales, es fundamental involucrar a los 
 
 ## Comentarios del docente
 
-En esta etapa se abordan las entradas y salidas del sistema, elementos fundamentales para garantizar que el diseño responda realmente a los requerimientos del usuario.
+En esta parte de la definición de la propuesta del sistema hablaremos de las entradas y las salidas del sistema. Tendremos la oportunidad de demostrar a los usuarios cuánto hemos comprendido sus requerimientos, diseñaremos las interfaces que les permitirán ingresar los datos a los sistemas, al igual que las salidas, que mostrarán el resultado del procesamiento de los datos a través de los sistemas.
 
-El diseño de entradas debe ser intuitivo, ágil, flexible y fácil de usar. La interfaz debe permitir que cualquier persona, sin importar su nivel técnico, pueda ingresar datos con comodidad y sin errores.
+El diseño de una buena entrada requiere proponer soluciones que sean sencillas, ágiles, flexibles y por sobre todo, intuitivas. Los usuarios se deben sentir cómodos con el uso. La interfaz debe estar diseñada de tal manera que cualquier usuario, independientemente del conocimiento que tenga, sea capaz de utilizarla.
 
-Las salidas son los resultados del procesamiento de esos datos. Pueden presentarse en distintos formatos, según las necesidades del usuario y el contexto de uso. Lo importante es que la información sea clara, útil y accesible.
+Las salidas son los resultados que entregan los sistemas de información a los usuarios, productos del procesamiento de las entradas. Las salidas pueden tomar diferentes formas, dependerá de las necesidades del usuario para determinar por dónde producirlas.
 
-Para asegurar la aceptación del sistema, es esencial contar con la participación activa de los usuarios en el diseño de estas interfaces. Su involucramiento no solo mejora el producto final, sino que también facilita la implementación.
-
-Un diseño eficaz de entradas y salidas no solo mejora la experiencia de uso, sino que refuerza la confianza del usuario en el sistema.
+Pondremos todo nuestro potencial en el diseño teniendo como mejor aliado al usuario, quien participará en todo el proceso del diseño, garantía de aceptación al momento de la implementación de los sistemas.
 
 ## Lecturas obligatorias
 

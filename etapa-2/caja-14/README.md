@@ -1,20 +1,8 @@
 # Caja 14
 
-<!--toc:start-->
-- [Caja 14](#caja-14)
-  - [Tema: Gráficos de secuencia](#tema-gráficos-de-secuencia)
-  - [Objetivos de la clase](#objetivos-de-la-clase)
-  - [Comentarios del docente](#comentarios-del-docente)
-  - [Lecturas obligatorias](#lecturas-obligatorias)
-  - [Webliografía](#webliografía)
-  - [Actividades](#actividades)
-<!--toc:end-->
+## Tema: Gráficos de Secuencias
 
-## Tema: Gráficos de secuencia
-
-Durante el desarrollo de un sistema, es común recurrir a representaciones gráficas que esquematicen procesos, flujos de trabajo o etapas. Los gráficos de secuencia permiten visualizar de forma clara cómo se desarrolla un procedimiento, tanto dentro de un área específica como en la interacción entre diferentes sectores o con clientes.
-
-Estas representaciones ayudan a entender la secuencia de pasos, las posibles superposiciones entre tareas y las relaciones entre actores involucrados en un proceso.
+A lo largo del ciclo de vida del desarrollo del software nos veremos con la necesidad de hacer representaciones gráficas que puedan demostrar esquemáticamente los pasos de un determinado proceso o procedimiento; flujos de trabajo; fases o etapas y su posible superposición, dentro de la empresa o de un sector de la misma, o entre la empresa y el cliente y viceversa, para ello recurriremos a los gráficos de secuencia.
 
 ## Objetivos de la clase
 
@@ -25,17 +13,18 @@ Estas representaciones ayudan a entender la secuencia de pasos, las posibles sup
 
 ## Comentarios del docente
 
-En esta fase final de la materia, se presentan herramientas que complementan el diseño del sistema, enfocándose en aquellas que describen secuencias de procesos, etapas y actividades.
+Estamos en la parte final de la materia, compartiendo herramientas que sirven y complementan al diseño. En esta clase hablaremos de algunas de ellas, sobre todo aquellas que permiten describir secuencias de procesos, etapas o actividades y flujos de trabajo. Herramientas que posibilitan detallar con los usuarios las secuencias de ejecución.
 
-Los gráficos de secuencia permiten trabajar en conjunto con los usuarios para detallar la ejecución de tareas, especialmente en procesos complejos, que requieren optimización o una visualización clara del recorrido hacia su resolución.
+Éstas serán aplicadas sobre todo cuando el proceso o procedimiento se hace complejo, se requiera optimizar o simplemente cuando se necesite mostrar el camino que sigue para su resolución o culminación, con éxito.
 
-Además de mostrar la secuencia, estos diagramas representan qué ocurre en cada etapa, los recursos involucrados, las decisiones necesarias y los sectores participantes.
+Además de la secuencia de actividades, los diagramas muestran lo que se realiza en cada etapa, los materiales o servicios que entran y salen del proceso, las decisiones que deben ser tomadas, las personas y los sectores o departamentos involucrados.
 
-Su valor reside en su capacidad para facilitar el análisis, incluso a usuarios con poca experiencia en modelado, gracias a su formato simple y directo.
+Los gráficos desecuencia hacen más fácil el análisis de un proceso o procedimiento para usuarios poco familiarizados con estas herramientas, sustentado por su simplicidad.
 
 ## Lecturas obligatorias
 
-- Martín Flor Romero. (2000). 4ta Edición. Organización y Procesos Empresariales. Capítulo Gráficos de Secuencias (X), páginas del 292 a la 315.
+- Martín Flor Romero. (2000). 4ta Edición. Organización y Procesos Empresariales.
+ - Capítulo Gráficos de Secuencias (X), páginas del 292 a la 315.
 
 ## Webliografía
 

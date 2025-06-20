@@ -11,7 +11,7 @@
 
 ## Tema: Repaso – Parte I
 
-Comienza una serie de repasos destinados a preparar el examen final. En esta primera parte se retoman los conceptos fundamentales de Ingeniería de Software, junto con la incorporación del nuevo departamento de Organización y Procesos Empresariales (OyPE) dentro del análisis de sistemas.
+A partir de esta clase iniciaremos una serie de repasos para prepararnos para el examen final. En esta primera parte haremos hincapié en la Ingeniería de Software y al nuevo departamento de Organización y Procesos empresariales.
 
 ## Objetivos de la clase
 
@@ -24,17 +24,18 @@ Comienza una serie de repasos destinados a preparar el examen final. En esta pri
 
 ## Comentario del docente
 
-A partir de un caso práctico, se busca aplicar los conocimientos adquiridos a situaciones reales del desarrollo de software. El objetivo es reflexionar sobre decisiones clave que enfrentan los analistas al iniciar un nuevo proyecto.
+Es hora de aplicar nuestro conocimientos a situaciones cercanas a la realidad. Por ello, y partir de un caso práctico, intentaremos dar respuestas a una serie de planteamientos que debemos enfrentar si es que nos dedicaremos al desarrollo de software.
 
-El primer planteo habitual consiste en determinar si la necesidad planteada por el usuario se resuelve mediante un sistema informático. Aunque esta respuesta puede ser sencilla, lo complejo está en definir el enfoque metodológico y técnico para desarrollar el sistema, lo cual remite directamente al uso de la [Ingeniería de Software](./materiales-de-clase/Repaso_1.pdf).
+Probablemente la primera disyuntiva a responder al usuario será si su necesidad se resuelve a través de un sistema informático. La respuesta puede ser muy simple, lo que llevará un poco más de tiempo será elegir la forma o el proceso de cómo encaramos la construcción del software y es ahí donde se ve la utilidad de la Ingeniería de Software.
 
-El nuevo sistema deberá integrarse con otros ya existentes en la empresa. Esto implica contemplar no solo la solución aislada, sino su inserción en una red de procesos automatizados. En esta etapa también se identifican sistemas complementarios necesarios para lograr una base de datos única e integrada.
+El nuevo sistema será insertado a una red que ya contiene otros sistemas, es casi natural si entendemos como solución la automatización de más procesos dentro de la empresa. La segunda parte de la práctica pretende definir a otros sistemas que serán necesarios para dar cumplimiento a las necesidades del usuario para integrar toda su información en una única base de datos.
 
-Finalmente, se analiza el rol del departamento de [Organización y Procesos Empresariales (OyPE)](./materiales-de-clase/Repaso_2.pdf) dentro de la estructura organizacional. Es fundamental comprender su alcance, funciones y responsabilidades como área asesora en el desarrollo y mejora de procesos empresariales.
+Situaremos al nuevo departamento de Organización y Procesos Empresariales (OyPE) dentro de la estructura organizacional. Es imperioso conocer el alcance real que tendremos los integrantes del OyPE, nuestras funciones, nuestras responsabilidades como asesores y profesionales en la materia.
 
 ## Lecturas obligatorias
 
-- Martín Flor Romero. (2000). 4ta Edición. Organización y Procesos Empresariales. Capítulo Gráficos de Secuencias (X), páginas del 292 a la 315.
+- Martín Flor Romero. (2000). 4ta Edición. Organización y Procesos Empresariales.
+  - Capítulo Gráficos de Secuencias (X), páginas del 292 a la 315.
 
 ## Webliografía
 
