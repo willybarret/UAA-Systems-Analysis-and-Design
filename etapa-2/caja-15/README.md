@@ -32,11 +32,6 @@ El nuevo sistema será insertado a una red que ya contiene otros sistemas, es ca
 
 Situaremos al nuevo departamento de Organización y Procesos Empresariales (OyPE) dentro de la estructura organizacional. Es imperioso conocer el alcance real que tendremos los integrantes del OyPE, nuestras funciones, nuestras responsabilidades como asesores y profesionales en la materia.
 
-## Lecturas obligatorias
-
-- Martín Flor Romero. (2000). 4ta Edición. Organización y Procesos Empresariales.
-  - Capítulo Gráficos de Secuencias (X), páginas del 292 a la 315.
-
 ## Webliografía
 
 - [Ejemplo de cómo diseñar un Flujograma.](http://www.scribd.com/doc/6452710/Diseno-flujograma)
