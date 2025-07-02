@@ -1,5 +1,12 @@
 # Caja 17
 
+<!--toc:start-->
+- [Caja 17](#caja-17)
+  - [Tema: Repaso – Parte II](#tema-repaso-parte-ii)
+  - [Objetivos de la clase](#objetivos-de-la-clase)
+  - [Comentario del docente](#comentario-del-docente)
+<!--toc:end-->
+
 ## Tema: Repaso – Parte II
 
 En este apartado discutiremos cómo interpretar el alcance de la organización y cómo moverse dentro de ella a través de los organigramas, gráfico perfecto para conocer cómo afectan los sistemas a las personas, sus roles y funciones. Entenderemos la mejor manera de atacar cualquier proyecto de OyPE, conociendo qué hacer en cada una de las etapas; y del mismo modo discutiremos qué efecto produce el origen de un proyecto.
